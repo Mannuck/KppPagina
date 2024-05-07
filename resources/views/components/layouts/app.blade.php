@@ -6,21 +6,21 @@
     <title>KPP</title>
 
     <!-- ========== Favicon Icon ========== -->
-    <link rel="shortcut icon" href="{{ asset('storage/assets/img/favicon.png') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('assets/img/favicon.png') }}" type="image/x-icon">
 
     <!-- ========== Start Stylesheet ========== -->
-    <link href="{{ asset('storage/assets/css/bootstrap.min.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/font-awesome.min.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/themify-icons.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/flaticon-set.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/elegant-icons.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/magnific-popup.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/owl.carousel.min.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/owl.theme.default.min.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/animate.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/bootsnav.css') }}" rel="stylesheet" />
-    <link href="{{ asset('storage/assets/css/style.css') }}" rel="stylesheet">
-    <link href="{{ asset('storage/assets/css/responsive.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/font-awesome.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/themify-icons.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/flaticon-set.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/elegant-icons.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/magnific-popup.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/owl.carousel.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/owl.theme.default.min.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/animate.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/bootsnav.css') }}" rel="stylesheet" />
+    <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/css/responsive.css') }}" rel="stylesheet" />
     <!-- ========== End Stylesheet ========== -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -124,7 +124,7 @@
                         <i class="fa fa-bars"></i>
                     </button>
                     <a class="navbar-brand" href="index.html">
-                        <img src="{{ asset('storage/assets/img/logo.png') }}" class="logo" alt="Logo">
+                        <img src="{{ asset('assets/img/logo.png') }}" class="logo" alt="Logo">
                     </a>
                 </div>
                 <!-- End Header Navigation -->
@@ -202,7 +202,7 @@
     <footer class="bg-dark text-light">
         <!-- Fixed Shape -->
         <div class="fixed-shape">
-            <img src="{{ asset('storage/assets/img/shape/bg-3.png') }}" alt="Shape">
+            <img src="{{ asset('assets/img/shape/bg-3.png') }}" alt="Shape">
         </div>
         <!-- Fixed Shape -->
 
@@ -235,7 +235,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 item">
                         <div class="f-item about">
-                            <img src="{{ asset('storage/assets/img/logo-light.png') }}" alt="Logo">
+                            <img src="{{ asset('assets/img/logo-light.png') }}" alt="Logo">
                             <p>
                                 Acelerarnos la transformación de las organizaciones.
                             </p>
@@ -340,23 +340,23 @@
 
     <!-- jQuery Frameworks
     ============================================= -->
-    <script src="{{ asset('storage/assets/js/jquery-1.12.4.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/popper.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/jquery.appear.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/jquery.easing.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/jquery.magnific-popup.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/modernizr.custom.13711.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/owl.carousel.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/wow.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/progress-bar.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/isotope.pkgd.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/imagesloaded.pkgd.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/count-to.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/YTPlayer.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/jquery.nice-select.min.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/bootsnav.js') }}"></script>
-    <script src="{{ asset('storage/assets/js/main.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery-1.12.4.min.js') }}"></script>
+    <script src="{{ asset('assets/js/popper.min.js') }}"></script>
+    <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.appear.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.easing.min.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.magnific-popup.min.js') }}"></script>
+    <script src="{{ asset('assets/js/modernizr.custom.13711.js') }}"></script>
+    <script src="{{ asset('assets/js/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('assets/js/wow.min.js') }}"></script>
+    <script src="{{ asset('assets/js/progress-bar.min.js') }}"></script>
+    <script src="{{ asset('assets/js/isotope.pkgd.min.js') }}"></script>
+    <script src="{{ asset('assets/js/imagesloaded.pkgd.min.js') }}"></script>
+    <script src="{{ asset('assets/js/count-to.js') }}"></script>
+    <script src="{{ asset('assets/js/YTPlayer.min.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.nice-select.min.js') }}"></script>
+    <script src="{{ asset('assets/js/bootsnav.js') }}"></script>
+    <script src="{{ asset('assets/js/main.js') }}"></script>
 
 </body>
 </html>

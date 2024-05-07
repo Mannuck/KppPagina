@@ -4,7 +4,7 @@
     ============================================= -->
     <div class="banner-area content-bg circle-shape">
         <!-- Background -->
-        <div class="bg" style="background-image: url('{{ asset('storage/assets/img/2440x1578.png') }}');"></div>
+        <div class="bg" style="background-image: url('{{ asset('assets/img/2440x1578.png') }}');"></div>
         <!-- End Background -->
         <div class="item">
             <div class="container">
@@ -35,7 +35,7 @@
     <div class="services-area bg-gray default-padding-top">
         <!-- Fixed BG -->
         <div class="fixed-shape-bottom">
-            <img src="{{ asset('storage/assets/img/shape/bg-5.png') }}" alt="Shape">
+            <img src="{{ asset('assets/img/shape/bg-5.png') }}" alt="Shape">
         </div>
         <!-- End Fixed BG -->
         <div class="container">
@@ -141,7 +141,7 @@
             <div class="row align-center">
                 <div class="col-lg-6">
                     <div class="thumb">
-                        <img src="{{ asset('storage/assets/img/800x800.png') }}" alt="Thumb">
+                        <img src="{{ asset('assets/img/800x800.png') }}" alt="Thumb">
                     </div>
                 </div>
                 <div class="col-lg-6 info center-responsive">
@@ -181,7 +181,7 @@
     <div class="work-process-area default-padding-bottom bottom-less">
         <!-- Shape -->
         <div class="fixed-shape">
-            <img src="{{ asset('storage/assets/img/shape/12.png') }}" alt="Shape">
+            <img src="{{ asset('assets/img/shape/12.png') }}" alt="Shape">
         </div>
         <!-- End Shape -->
         <div class="container">
@@ -270,7 +270,7 @@
             <div class="row align-center">
                 <div class="col-lg-5">
                     <div class="thumb wow fadeInRight" data-wow-delay="0.6s">
-                        <img src="{{ asset('storage/assets/img/800x800.png') }}" alt="Thumb">
+                        <img src="{{ asset('assets/img/800x800.png') }}" alt="Thumb">
                         <div class="content wow fadeInLeft" data-wow-delay="0.8s">
                             <h2>25<span>+</span></h2>
                             <h5>Years of Experience</h5>
@@ -303,7 +303,7 @@
     <div class="team-area default-padding bg-gray bottom-less">
         <!-- Fixed BG -->
         <div class="fixed-shape-bottom">
-            <img src="{{ asset('storage/assets/img/shape/bg-6.png') }}" alt="Shape">
+            <img src="{{ asset('assets/img/shape/bg-6.png') }}" alt="Shape">
         </div>
         <!-- End Fixed BG -->
         <div class="container">
@@ -327,7 +327,7 @@
                     <div class="single-item col-lg-4 col-md-6">
                         <div class="item">
                             <div class="thumb">
-                                <img src="{{ asset('storage/assets/img/800x800.png') }}" alt="Thumb">
+                                <img src="{{ asset('assets/img/800x800.png') }}" alt="Thumb">
                                 <div class="social">
                                     <ul>
                                         <li class="instagram">
@@ -361,7 +361,7 @@
                     <div class="single-item col-lg-4 col-md-6">
                         <div class="item">
                             <div class="thumb">
-                                <img src="{{ asset('storage/assets/img/800x800.png') }}" alt="Thumb">
+                                <img src="{{ asset('assets/img/800x800.png') }}" alt="Thumb">
                                 <div class="social">
                                     <ul>
                                         <li class="instagram">
@@ -395,7 +395,7 @@
                     <div class="single-item col-lg-4 col-md-6">
                         <div class="item">
                             <div class="thumb">
-                                <img src="{{ asset('storage/assets/img/800x800.png') }}" alt="Thumb">
+                                <img src="{{ asset('assets/img/800x800.png') }}" alt="Thumb">
                                 <div class="social">
                                     <ul>
                                         <li class="instagram">
@@ -453,7 +453,7 @@
                         <!-- Single Item -->
                         <div class="item">
                             <div class="thumb">
-                                <img src="{{ asset('storage/assets/img/800x800.png') }}" alt="Thumb">
+                                <img src="{{ asset('assets/img/800x800.png') }}" alt="Thumb">
                                 <i class="fas fa-quote-right"></i>
                             </div>
                             <div class="info">
@@ -479,7 +479,7 @@
                         <!-- Single Item -->
                         <div class="item">
                             <div class="thumb">
-                                <img src="{{ asset('storage/assets/img/800x800.png') }}" alt="Thumb">
+                                <img src="{{ asset('assets/img/800x800.png') }}" alt="Thumb">
                                 <i class="fas fa-quote-right"></i>
                             </div>
                             <div class="info">
@@ -505,7 +505,7 @@
                         <!-- Single Item -->
                         <div class="item">
                             <div class="thumb">
-                                <img src="{{ asset('storage/assets/img/800x800.png') }}" alt="Thumb">
+                                <img src="{{ asset('assets/img/800x800.png') }}" alt="Thumb">
                                 <i class="fas fa-quote-right"></i>
                             </div>
                             <div class="info">
@@ -540,7 +540,7 @@
     <div class="case-studies-area bg-gray default-padding-bottom">
         <!-- Fixed BG -->
         <div class="fixed-shape-top">
-            <img src="{{ asset('storage/assets/img/shape/bg-7.png') }}" alt="Shape">
+            <img src="{{ asset('assets/img/shape/bg-7.png') }}" alt="Shape">
         </div>
         <!-- End Fixed BG -->
         <div class="container">
@@ -561,7 +561,7 @@
             <div class="case-carousel text-center text-light owl-carousel owl-theme">
                 <div class="item">
                     <div class="thumb">
-                        <img src="{{ asset('storage/assets/img/800x600.png') }}" alt="Thumb">
+                        <img src="{{ asset('assets/img/800x600.png') }}" alt="Thumb">
                     </div>
                     <div class="info">
                         <div class="tags">
@@ -575,7 +575,7 @@
                 </div>
                 <div class="item">
                     <div class="thumb">
-                        <img src="{{ asset('storage/assets/img/800x600.png') }}" alt="Thumb">
+                        <img src="{{ asset('assets/img/800x600.png') }}" alt="Thumb">
                     </div>
                     <div class="info">
                         <div class="tags">
@@ -589,7 +589,7 @@
                 </div>
                 <div class="item">
                     <div class="thumb">
-                        <img src="{{ asset('storage/assets/img/800x600.png') }}" alt="Thumb">
+                        <img src="{{ asset('assets/img/800x600.png') }}" alt="Thumb">
                     </div>
                     <div class="info">
                         <div class="tags">
@@ -603,7 +603,7 @@
                 </div>
                 <div class="item">
                     <div class="thumb">
-                        <img src="{{ asset('storage/assets/img/800x600.png') }}" alt="Thumb">
+                        <img src="{{ asset('assets/img/800x600.png') }}" alt="Thumb">
                     </div>
                     <div class="info">
                         <div class="tags">
@@ -667,7 +667,7 @@
                                 <h2>Need Help?</h2>
                                 <p>Reach out to the world’s most reliable IT services.</p>
                             </div>
-                            <form action="{{ asset('storage/assets/mail/contact.php') }}" method="POST" class="contact-form">
+                            <form action="{{ asset('assets/mail/contact.php') }}" method="POST" class="contact-form">
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="form-group">
@@ -741,7 +741,7 @@
                     <div class="single-item col-lg-4">
                         <div class="item">
                             <div class="thumb">
-                                <img src="{{ asset('storage/assets/img/800x600.png') }}" alt="Thumb">
+                                <img src="{{ asset('assets/img/800x600.png') }}" alt="Thumb">
                                 <div class="date">12 <span>Jan, 2021</span></div>
                             </div>
                             <div class="info">
@@ -766,7 +766,7 @@
                     <div class="single-item col-lg-4">
                         <div class="item">
                             <div class="thumb">
-                                <img src="{{ asset('storage/assets/img/800x600.png') }}" alt="Thumb">
+                                <img src="{{ asset('assets/img/800x600.png') }}" alt="Thumb">
                                 <div class="date">05 <span>Feb, 2021</span></div>
                             </div>
                             <div class="info">
@@ -791,7 +791,7 @@
                     <div class="single-item col-lg-4">
                         <div class="item">
                             <div class="thumb">
-                                <img src="{{ asset('storage/assets/img/800x600.png') }}" alt="Thumb">
+                                <img src="{{ asset('assets/img/800x600.png') }}" alt="Thumb">
                                 <div class="date">18 <span>Mar, 2021</span></div>
                             </div>
                             <div class="info">
