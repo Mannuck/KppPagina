@@ -237,7 +237,7 @@
                         <div class="f-item about">
                             <img src="{{ asset('assets/img/logo-light.png') }}" alt="Logo">
                             <p>
-                                Acelerarnos la transformación de las organizaciones.
+                                Aceleramos la transformación de las organizaciones.
                             </p>
                             <div class="social">
                                 <ul>
