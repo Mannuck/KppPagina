@@ -2756,7 +2756,7 @@ nav.navbar.bootsnav {
     font-size: 14px;
     font-weight: 600;
     padding: 10px 0;
-    text-transform: capitalize;
+    text-transform: none;
     width: 100%;
   }
 
