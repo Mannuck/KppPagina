@@ -64,7 +64,7 @@
                                 </div>
                                 <div class="info">
                                     <span>Software</span>
-                                    <h4><a href="#">Marketing Strategy</a></h4>
+                                    <h4><a href="#">Sistema Integrado de Gestión Comercial</a></h4>
                                     <p>
                                         Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
                                     </p>

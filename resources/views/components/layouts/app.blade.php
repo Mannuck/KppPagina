@@ -141,7 +141,7 @@
                                 <li><a href="">Automatización de procesos</a></li>
                                 <li><a href="">Desarrollo a la medida</a></li>
                                 <li><a href="">Robotización de procesos</a></li>
-                                <li><a href="">Inteligencia Artificial</a></li>
+                                <li><a href="">Inteligencia artificial</a></li>
                                 <li><a href="">Portales y colaboración</a></li>
                                 <li><a href="">Tableros de indicadores</a></li>
                                 <li><a href="">Desarrollo web y móviles</a></li>
