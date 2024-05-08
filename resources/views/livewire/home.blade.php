@@ -63,7 +63,7 @@
                                     <i class="flaticon-analysis-1"></i>
                                 </div>
                                 <div class="info">
-                                    <span>Software</span>
+                                    <span>Desarrollo</span>
                                     <h4><a href="#">Sistema Integrado de Gestión Comercial</a></h4>
                                     <p>
                                         Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
@@ -79,8 +79,8 @@
                                     <i class="flaticon-solution"></i>
                                 </div>
                                 <div class="info">
-                                    <span>Strategies</span>
-                                    <h4><a href="#">Infrastructure Plan</a></h4>
+                                    <span>Desarrollo</span>
+                                    <h4><a href="#">Sistema Integrado de Turismo Inteligente</a></h4>
                                     <p>
                                         Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
                                     </p>
@@ -97,8 +97,8 @@
                                     <i class="flaticon-plan"></i>
                                 </div>
                                 <div class="info">
-                                    <span>Development</span>
-                                    <h4><a href="#">Cloud Computing</a></h4>
+                                    <span>Office 365 suite</span>
+                                    <h4><a href="#">Sistema de Indicadores para Seguridad y Salud en el Trabajo</a></h4>
                                     <p>
                                         Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
                                     </p>
@@ -110,11 +110,29 @@
                         <div class="single-item">
                             <div class="item">
                                 <div class="icon">
-                                    <i class="flaticon-secure"></i>
+                                    <i class="flaticon-badge"></i>
                                 </div>
                                 <div class="info">
-                                    <span>Networking</span>
-                                    <h4><a href="#">Cloud Integration</a></h4>
+                                    <span>Desarrollo</span>
+                                    <h4><a href="#">Cotizador de seguros online</a></h4>
+                                    <p>
+                                        Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Itme -->
+                    </div>
+                    <div class="item-grid col-lg-6 col-md-6">
+                        <!-- Single Itme -->
+                        <div class="single-item">
+                            <div class="item">
+                                <div class="icon">
+                                    <i class="flaticon-project-management"></i>
+                                </div>
+                                <div class="info">
+                                    <span>Office 365 suite</span>
+                                    <h4><a href="#">Gestión documental integrada a O365</a></h4>
                                     <p>
                                         Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
                                     </p>
@@ -126,7 +144,7 @@
                 </div>
                 <div class="bottom-content text-center">
                     <p>
-                        Stop wasting time and money on technology. <a href="#">Let’s get started</a>
+                        Deja de perder tiempo y dinero<a href="#"> ¡Empecemos! </a>
                     </p>
                 </div>
             </div>
