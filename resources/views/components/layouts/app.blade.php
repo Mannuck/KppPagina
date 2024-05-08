@@ -213,15 +213,12 @@
                     <div class="row align-center">
                         <div class="col-lg-7">
                             <ul>
-                                <li><a href="#">Membership</a></li>
-                                <li><a href="#">Support</a></li>
-                                <li><a href="#">Terms</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="#">Registra tu correo para recibir las ultimas novedades</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-5">
                             <form action="#">
-                                <input type="email" placeholder="Registra tu correo para recibir las ultimas novedades" class="form-control" name="email">
+                                <input type="email" placeholder="Ingresa tu correo electrónico" class="form-control" name="email">
                                 <button type="submit"> <i class="fa fa-paper-plane"></i></button>
                             </form>
                         </div>
@@ -257,7 +254,7 @@
                     </div>
                     <div class="col-lg-2 col-md-6 item">
                         <div class="f-item link">
-                            <h4 class="widget-title">Company</h4>
+                            <h4 class="widget-title">Compañía</h4>
                             <ul>
                                 <li>
                                     <a href="#">Propósito</a>
@@ -280,7 +277,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-6 item">
+                    <div class="col-lg-4 col-md-6 item">
                         <div class="f-item link">
                             <h4 class="widget-title">Soluciones</h4>
                             <ul>
@@ -302,25 +299,23 @@
                             </ul>
                         </div>
                     </div>
-
-                    <div class="col-lg-4 col-md-6 item">
+                    <div class="col-lg-2 col-md-6 item">
                         <div class="f-item">
                             <h4 class="widget-title">Contáctenos</h4>
                             <div class="address">
                                 <ul>
                                     <li>
                                         <strong>Dirección :</strong>
-                                        Cra. 17a # 116-15,  Oficina 302, Bogotá.
+                                        Cra. 17a # 116-15, Oficina 302, Bogotá.
                                     </li>
                                     <li>
-                                        <strong>Correo electrónico :</strong>
+                                        <strong>Correo :</strong>
                                         <a href="mailto:comercial@kpp.lat">comercial@kpp.lat</a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>

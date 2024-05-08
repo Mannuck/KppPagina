@@ -42,11 +42,11 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="site-heading text-center">
-                        <h5>Our Services</h5>
-                        <h2 class="area-title">We provide IT & Business solutions</h2>
+                        <h5>Nuestros servicios </h5>
+                        <h2 class="area-title">Soluciones empresariales</h2>
                         <div class="devider"></div>
                         <p>
-                            Outlived no dwelling denoting in peculiar as he believed. Behaviour excellent middleton be as it curiosity departure ourselves very extreme future.
+                            Optimizamos tu empresa con soluciones tecnológicas integrales para potenciar la colaboración y la productividad.
                         </p>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                         <div class="single-item">
                             <div class="item">
                                 <div class="icon">
-                                    <i class="flaticon-growth"></i>
+                                    <i class="flaticon-analysis-1"></i>
                                 </div>
                                 <div class="info">
                                     <span>Software</span>
@@ -76,7 +76,7 @@
                         <div class="single-item">
                             <div class="item">
                                 <div class="icon">
-                                    <i class="flaticon-sketch"></i>
+                                    <i class="flaticon-solution"></i>
                                 </div>
                                 <div class="info">
                                     <span>Strategies</span>
@@ -94,7 +94,7 @@
                         <div class="single-item">
                             <div class="item">
                                 <div class="icon">
-                                    <i class="flaticon-cloud-network"></i>
+                                    <i class="flaticon-plan"></i>
                                 </div>
                                 <div class="info">
                                     <span>Development</span>
