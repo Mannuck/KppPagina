@@ -231,9 +231,9 @@
                         <h2>Nuestros <br> clientes</h2>
                         <div class="clients-carousel owl-carousel owl-theme">
                             <a href="#"><img src="{{ asset('assets/img/clients/acciet.png') }}" alt="Client"></a>
-                            <a href="#"><img src="{{ asset('assets/img/clients/italcol.png') }}" alt="Client"></a>
                             <a href="#"><img src="{{ asset('assets/img/clients/palmeras.jpg') }}" alt="Client"></a>
                             <a href="#"><img src="{{ asset('assets/img/clients/opla-sas.jpg') }}" alt="Client"></a>
+                            <a href="#"><img src="{{ asset('assets/img/clients/italcol.png') }}" alt="Client"></a>
                             <a href="#"><img src="{{ asset('assets/img/clients/proteinas.png') }}" alt="Client"></a>
                         </div>
                     </div>
