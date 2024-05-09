@@ -88,6 +88,22 @@
                             </div>
                         </div>
                         <!-- End Single Itme -->
+                        <!-- Single Itme -->
+                        <div class="single-item">
+                            <div class="item">
+                                <div class="icon">
+                                    <i class="flaticon-project-management"></i>
+                                </div>
+                                <div class="info">
+                                    <span>Office 365 suite</span>
+                                    <h4><a href="#">Gestión documental integrada a O365</a></h4>
+                                    <p>
+                                        Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Itme -->
                     </div>
                     <div class="item-grid col-lg-6 col-md-6">
                         <!-- Single Itme -->
@@ -115,24 +131,6 @@
                                 <div class="info">
                                     <span>Desarrollo</span>
                                     <h4><a href="#">Cotizador de seguros online</a></h4>
-                                    <p>
-                                        Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Itme -->
-                    </div>
-                    <div class="item-grid col-lg-6 col-md-6">
-                        <!-- Single Itme -->
-                        <div class="single-item">
-                            <div class="item">
-                                <div class="icon">
-                                    <i class="flaticon-project-management"></i>
-                                </div>
-                                <div class="info">
-                                    <span>Office 365 suite</span>
-                                    <h4><a href="#">Gestión documental integrada a O365</a></h4>
                                     <p>
                                         Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
                                     </p>

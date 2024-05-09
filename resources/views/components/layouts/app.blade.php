@@ -324,7 +324,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <p>Derechos de autor &copy; 2021. Diseñado por <a href="#">KPP</a></p>
+                        <p>Derechos reservados &copy; 2021. Diseñado por <a href="#">KPP</a></p>
                     </div>
                 </div>
             </div>
