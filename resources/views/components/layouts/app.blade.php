@@ -133,7 +133,7 @@
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
                         <li class="">
-                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown">Inicio</a>
+                            <a href="/" class="dropdown-toggle active" data-toggle="dropdown">Inicio</a>
                         </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Smart bussines</a>
@@ -183,7 +183,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="">Contáctenos</a>
+                            <a href="{{ route('Contacto') }}">Contáctenos</a>
                         </li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
