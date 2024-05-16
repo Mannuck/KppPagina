@@ -71,7 +71,7 @@ class Contacto extends Component
         // crdenciales y lista guardar info
         $tenantId = "881321sd5-f65c-4e4f-ae3a-e5d89e491ddd";
         $clientId = "9be96231-bbac-42d6-b67f-5b72da3348a9";
-
+//no olvidar
         $siteId = "kpplat.sharepoint.com,aea39e9b-9c36-4411-85b8-7c49434ae7cb,cc30657c-5f09-4fac-9236-68f11e056a01";
         $listId = "0a8ce149-598c-4acc-a751-73e4e91ebbbf";
 
