@@ -152,7 +152,7 @@
                                         <div class="form-check-inline">
                                             <input class="form-check-input @error('condiciones') is-invalid @enderror" type="checkbox" value="" id="condiciones" name="condiciones" wire:model.blur="condiciones">
                                             <label class="form-check-label" for="condiciones"><a target="_blank" href="#">Acepta
-                                                los términos y condiciones</a>
+                                                    los términos y condiciones</a>
                                             </label>
                                             @error('condiciones')
                                             <div class="invalid-feedback">{{ $message }}</div>
@@ -160,19 +160,6 @@
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="col-md-6 mb-3">
-                                            <button type="submit" class="btn btn-primary" style="margin-top: 25px;">Enviar</button>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Alert Message -->
-                                <div class="col-md-12 alert-notification">
-                                    <div id="message" class="alert-msg"></div>
-                                </div>
-
                                 <div>
                                     <div id="captcha" class="col-md-12 d-flex justify-content-center" wire:ignore>
                                         {!! NoCaptcha::renderJs('es') !!}
@@ -187,28 +174,34 @@
                                         @endif
                                     </div>
                                 </div>
-                                <!-- Modal -->
-                                <div class="modal fade" id="codigos" tabindex="-1" role="dialog" aria-labelledby="codigosLabel" data-backdrop="static" aria-hidden="true">
-                                    <div class="modal-dialog" role="document">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="codigosLabel">{{ $mensajes_titulos }}</h5>
-                                            </div>
-                                            <div class="modal-body">
-                                                @if ($mensajes_codigos)
-                                                {{ $mensajes_codigos }}
-                                                @endif
-                                            </div>
-                                            <div class="modal-footer" style="justify-content: space-between;">
-                                                <button type="button" class="btn btn-primary" data-dismiss="modal" wire:click.prevent="otraSolicitud">Envíar otra solicitud</button>
 
-                                                <a href="https://kpp.lat/"><button type="button" class="btn btn-outline-danger">Ir a KPP</button></a>
-                                            </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <div class="col-md-6 mb-3">
+                                            <button type="submit" class="btn btn-primary" style="margin-top: 25px;">Enviar</button>
                                         </div>
                                     </div>
                                 </div>
-                                {{-- fin del modal --}}
                             </form>
+                        </div>
+                        <div wire:loading wire:target="EnviarDatos" class="col-12">
+                            <div class="alert alert-info d-flex align-items-center justify-content-center my-3">Enviando formulario....</div>
+                        </div>
+                        @if ($errors->any())
+                        <div class="alert alert-danger d-flex align-items-center justify-content-center my-3">
+                            Por favor, completa todos los campos requeridos  y verifica la información ingresada.
+                        </div>
+                        @endif
+                        <div class="alert-notification mb-3 my-3">
+                            <!-- Mensaje Flash -->
+                            @foreach (['correcto' => 'success', 'error' => 'danger'] as $key => $tipo)
+                            @if (session()->has($key))
+                            <div id="flash-message-{{ $tipo }}" class="alert alert-msg alert-{{ $tipo }} alert-dismissible fade show" role="alert">
+                                {{ session($key) }}
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                            </div>
+                            @endif
+                            @endforeach
                         </div>
                     </div>
                 </div>
@@ -235,13 +228,6 @@
             });
 
         }
-
-        document.addEventListener('DOMContentLoaded', function() {
-            Livewire.on('showModalcodigos', function() {
-                // Tu lógica para manejar el evento showModal aquí
-                $('#codigos').modal('show');
-            });
-        });
 
     </script>
 </div>
