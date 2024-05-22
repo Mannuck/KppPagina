@@ -205,28 +205,6 @@
             <img src="{{ asset('assets/img/shape/bg-3.png') }}" alt="Shape">
         </div>
         <!-- Fixed Shape -->
-
-        <!-- Footer Top -->
-        <div class="footer-top">
-            <div class="container">
-                <div class="footer-top-content">
-                    <div class="row align-center">
-                        <div class="col-lg-7">
-                            <ul>
-                                <li><a href="#">Registra tu correo para recibir las ultimas novedades</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-5">
-                            <form action="#">
-                                <input type="email" placeholder="Ingresa tu correo electrónico" class="form-control" name="email">
-                                <button type="submit"> <i class="fa fa-paper-plane"></i></button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Footer Top -->
         <div class="container">
             <div class="f-items default-padding">
                 <div class="row">

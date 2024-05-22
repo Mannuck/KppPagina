@@ -54,8 +54,8 @@
         </div>
         <div class="container">
             <div class="services-items">
-                <div class="row">
-                    <div class="item-grid col-lg-6 col-md-6">
+                <div class="row" style="justify-content: center;">
+                    <div class="item-grid col-lg-5 col-sm-12">
                         <!-- Single Itme -->
                         <div class="single-item">
                             <div class="item">
@@ -105,7 +105,7 @@
                         </div>
                         <!-- End Single Itme -->
                     </div>
-                    <div class="item-grid col-lg-6 col-md-6">
+                    <div class="item-grid col-lg-5 col-sm-12">
                         <!-- Single Itme -->
                         <div class="single-item">
                             <div class="item">
@@ -154,13 +154,13 @@
     ============================================= -->
     <div class="about-area center-responsive default-padding">
         <div class="container">
-            <div class="row align-center">
-                <div class="col-lg-6">
+            <div class="row" style="justify-content: center;">
+                <div class="col-lg-4">
                     <div class="thumb">
                         <img src="{{ asset('assets/img/kpppotencia.png') }}" alt="Thumb">
                     </div>
                 </div>
-                <div class="col-lg-6 info center-responsive">
+                <div class="col-lg-8 info center-responsive">
                     <h5>Descubre nuestra empresa</h5>
                     <h2 class="area-title">Ayudamos a las empresas a aumentar su capacidad de ingeniería</h2>
                     <p>
@@ -222,13 +222,13 @@
 
     <!-- Start clients Area
     ============================================= -->
-    <div class="award-style-two-area text-center default-padding-bottom">
+    <div class="award-style-two-area text-center default-padding-bottom" style="padding-bottom: 20px">
         <div class="shape" style="background-image: url(assets/img/map.svg);"></div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="award-style-two">
-                        <h2>Nuestros <br> clientes</h2>
+                        <h2>Nuestros clientes</h2>
                         <div class="clients-carousel owl-carousel owl-theme">
                             <a href="#"><img src="{{ asset('assets/img/clients/acciet.png') }}" alt="Client"></a>
                             <a href="#"><img src="{{ asset('assets/img/clients/palmeras.jpg') }}" alt="Client"></a>
