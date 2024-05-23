@@ -2,7 +2,7 @@
     {{-- Success is as dangerous as failure. --}}
     <!-- Start Breadcrumb
     ============================================= -->
-    <div class="breadcrumb-area text-center shadow dark bg-fixed text-light" style="background-image: url({{ asset('assets/img/contactenos.jpg') }});">
+    <div class="breadcrumb-area text-center shadow dark bg-fixed text-light" style="background-image: url({{ asset('assets/img/contactenos.jpg') }}); margin-top: 96px;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

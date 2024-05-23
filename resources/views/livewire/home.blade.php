@@ -2,6 +2,64 @@
     {{-- Because she competes with no one, no one can compete with her. --}}
     <!-- Start Banner
     ============================================= -->
+    <div class="banner-area text-center text-uppercase top-pad-80 text-large" style="margin-top: 96px">
+        <div id="bootcarousel" class="carousel text-light slide carousel-fade animate_text" data-ride="carousel">
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner carousel-zoom">
+                <div class="carousel-item active">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="box-table">
+                        <div class="box-cell shadow dark">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-10 offset-lg-1">
+                                        <div class="content">
+                                            <h2 data-animation="animated slideInRight">Creating a better <strong>IT solutions</strong></h2>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="box-table">
+                        <div class="box-cell shadow dark">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-10 offset-lg-1">
+                                        <div class="content">
+                                            <h2 data-animation="animated slideInRight">Transform every<strong>Digital Process</strong></h2>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Wrapper for slides -->
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control light" href="#bootcarousel" data-slide="prev">
+                <i class="arrow_left"></i>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control light" href="#bootcarousel" data-slide="next">
+                <i class="arrow_right"></i>
+                <span class="sr-only">Next</span>
+            </a>
+
+        </div>
+    </div>
+    <!-- End Banner -->
+
+    <!-- Start Banner
+    ============================================= -->
     <div class="banner-area content-bg circle-shape">
         <!-- Background -->
         <div class="bg" style="background-image: url('{{ asset('assets/img/2440x1578.png') }}');"></div>
@@ -29,6 +87,8 @@
         </div>
     </div>
     <!-- End Banner -->
+
+
 
     <!-- Star Services Area
     ============================================= -->
@@ -179,7 +239,7 @@
                         <li>
                             <div class="fun-fact">
                                 <div class="counter">
-                                     <div class="operator">+</div>
+                                    <div class="operator">+</div>
                                     <div class="timer" data-to="140" data-speed="5000">140</div>
                                 </div>
                                 <span class="medium">Clientes activos</span>
@@ -188,7 +248,7 @@
                         <li>
                             <div class="fun-fact">
                                 <div class="counter">
-                                     <div class="operator">+</div>
+                                    <div class="operator">+</div>
                                     <div class="timer" data-to="350" data-speed="5000">350</div>
                                 </div>
                                 <span class="medium">Proyectos completados</span>
@@ -197,7 +257,7 @@
                         <li>
                             <div class="fun-fact">
                                 <div class="counter">
-                                     <div class="operator">+</div>
+                                    <div class="operator">+</div>
                                     <div class="timer" data-to="1300" data-speed="5000">1300</div>
                                 </div>
                                 <span class="medium">Procesos en operación</span>
@@ -242,6 +302,4 @@
         </div>
     </div>
     <!-- End Clients Area -->
-
-
 </div>

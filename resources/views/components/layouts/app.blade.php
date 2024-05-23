@@ -138,7 +138,7 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Smart bussines</a>
                             <ul class="dropdown-menu">
-                                <li><a href="">Automatización de procesos</a></li>
+                                <li><a href="{{ route('BPA') }}">Automatización de procesos</a></li>
                                 <li><a href="">Desarrollo a la medida</a></li>
                                 <li><a href="">Robotización de procesos</a></li>
                                 <li><a href="">Inteligencia artificial</a></li>
@@ -230,7 +230,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-6 item">
+                    <div class="col-lg-4 col-md-6 item">
                         <div class="f-item link">
                             <h4 class="widget-title">Compañía</h4>
                             <ul>
@@ -256,28 +256,6 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 item">
-                        <div class="f-item link">
-                            <h4 class="widget-title">Soluciones</h4>
-                            <ul>
-                                <li>
-                                    <a href="#">Sistema Integrado de Gestión Comercial</a>
-                                </li>
-                                <li>
-                                    <a href="#">Sistema Integrado de Turismo Inteligente</a>
-                                </li>
-                                <li>
-                                    <a href="#">Sistema de Indicadores para Seguridad y Salud en el Trabajo</a>
-                                </li>
-                                <li>
-                                    <a href="#">Cotizador de seguros online</a>
-                                </li>
-                                <li>
-                                    <a href="#">Gestión documental integrada a O365</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6 item">
                         <div class="f-item">
                             <h4 class="widget-title">Contáctenos</h4>
                             <div class="address">
@@ -302,7 +280,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <p>Derechos reservados &copy; 2021. Diseñado por <a href="#">KPP</a></p>
+                        <p>Derechos reservados &copy; {{ date('Y') }}. Diseñado por <a href="#">KPP</a></p>
                     </div>
                 </div>
             </div>
