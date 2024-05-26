@@ -142,7 +142,7 @@
                                 <li><a href="">Desarrollo a la medida</a></li>
                                 <li><a href="">Robotización de procesos</a></li>
                                 <li><a href="">Inteligencia artificial</a></li>
-                                <li><a href="">Portales y colaboración</a></li>
+                                <li><a href="{{ route('PyC') }}">Portales y colaboración</a></li>
                                 <li><a href="">Tableros de indicadores</a></li>
                                 <li><a href="">Desarrollo web y móviles</a></li>
                                 <li><a href="">Aprovechamiento de la plataforma O365</a></li>
@@ -172,14 +172,14 @@
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nosotros</a>
+                            <a href="{{ route('Nosotros') }}" class="dropdown-toggle" data-toggle="dropdown">Nosotros</a>
                             <ul class="dropdown-menu">
-                                <li><a href="">Propósito</a></li>
-                                <li><a href="">Como lo hacemos</a></li>
-                                <li><a href="">Valores</a></li>
-                                <li><a href="">Experiencia</a></li>
-                                <li><a href="">Ecosistema</a></li>
-                                <li><a href="">Somos expertos</a></li>
+                                <li><a href="{{ route('Nosotros') }}">Propósito</a></li>
+                                <li><a href="{{ route('Nosotros') }}">Como lo hacemos</a></li>
+                                <li><a href="{{ route('Nosotros') }}">Valores</a></li>
+                                <li><a href="{{ route('Nosotros') }}">Experiencia</a></li>
+                                <li><a href="{{ route('Nosotros') }}">Ecosistema</a></li>
+                                <li><a href="{{ route('Nosotros') }}">Somos expertos</a></li>
                             </ul>
                         </li>
                         <li>

@@ -2,7 +2,7 @@
     {{-- A good traveler has no fixed plans and is not intent upon arriving. --}}
     <!-- Start Banner
     ============================================= -->
-    <div class="banner-area responsive-top-pad-120 bg-gradient shadow dark-small text-light background-move bg-gray" style="background-image: url(assets/img/shape/2.jpg);">
+    <div class="banner-area responsive-top-pad-120 bg-gradient shadow dark-small text-light background-move bg-gray" style="background-image: url(assets/img/shape/2.jpg); margin-top: 96px">
         <div class="item-box">
             <div class="item">
                 <div class="container">
@@ -10,9 +10,9 @@
 
                         <div class="col-lg-6">
                             <div class="content">
-                                <h2 class="wow fadeInLeft" data-wow-delay="500ms">Powerful Digital <strong>IT solutions Company</strong></h2>
+                                <h2 class="wow fadeInLeft" data-wow-delay="500ms">Sobre Nosotros:</strong></h2>
                                 <p class="wow fadeInRight" data-wow-delay="600ms">
-                                    Affixed pretend account ten natural. Need eat week even yet that. Incommode delighted he resolving sportsmen do in listening.
+                                    Nuestro enfoque se basa en experiencia y en la capacidad para la integración de la estrategia, gestión y tecnología para la creación de herramientas que agregan valor a nuestros clientes y crean diferenciales en el mercado.
                                 </p>
                                 {{-- <div class="button wow fadeInUp" data-wow-delay="700ms">
                                     <a class="btn btn-light effect btn-md" href="#">Get Started</a>
@@ -110,4 +110,64 @@
     </div>
     <!-- End Why Choose Us Area -->
 
+    <!-- Start Why Choose Us
+    ============================================= -->
+    <div class="choose-us-area inc-skill default-padding" style="padding-top: 80px">
+        <div class="container">
+            <div class="row align-center">
+                <div class="col-lg-5">
+                    <div class="thumb wow fadeInRight" data-wow-delay="0.6s">
+                        <img src="assets/img/experiencia.png" alt="Thumb">
+                        <div class="content wow fadeInLeft" data-wow-delay="0.8s">
+                            <h2><span> + </span>14</h2>
+                            <h5>Años de operación</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 offset-lg-1 info wow fadeInUp">
+                    <h2 class="area-title">Experiencia:</h2>
+                    <p>
+                        Somos KPP, nos dedicamos al mundo de la automatización de la gestión empresarial, creemos en las personas, en su desarrollo integral y en el talento que aportan al día a día de nuestros clientes.
+                    </p>
+                    <br>
+                    <p>
+                        En KPP apostamos por el talento, y nuestro principal objetivo es conseguir un alto rendimiento profesional al crear un ambiente de trabajo basado en la libertad responsable.
+                    </p>
+                    <br>
+                    <p>
+                        El enfoque de nuestro equipo se basa en la experiencia y en la capacidad para la integrar la estrategia, los modelos de gestión y las tecnologías para la creación de herramientas que agregan valor a nuestros clientes y crean diferenciales en el mercado.
+                    </p>
+                    {{-- <div class="skill-items">
+                        <!-- Progress Bar Start -->
+                        <div class="progress-box">
+                            <h5>Software Development</h5>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-width="88">
+                                     <span>88%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="progress-box">
+                            <h5>Cyber Security</h5>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-width="95">
+                                    <span>95%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="progress-box">
+                            <h5>Artificial Intelligence</h5>
+                            <div class="progress">
+                                <div class="progress-bar" role="progressbar" data-width="80">
+                                    <span>80%</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Progressbar -->
+                    </div> --}}
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Why Choose Us Area -->
 </div>
