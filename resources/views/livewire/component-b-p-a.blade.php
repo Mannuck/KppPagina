@@ -1,6 +1,6 @@
 <div>
     {{-- The whole world belongs to you. --}}
-    <div class="breadcrumb-area text-center shadow dark bg-fixed text-light" style="background-image: url(assets/img/2440x1578.png); margin-top: 96px">
+    <div class="breadcrumb-area text-center shadow dark bg-fixed text-light" style="background-image: url(assets/img/automatizacion.png); margin-top: 96px">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

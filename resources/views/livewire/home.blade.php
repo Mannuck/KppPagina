@@ -8,7 +8,7 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner carousel-zoom">
                 <div class="carousel-item active">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/gesioncomercial.png);"></div>
                     <div class="box-table">
                         <div class="box-cell shadow dark">
                             <div class="container">
@@ -16,7 +16,7 @@
                                     <div class="col-lg-10 offset-lg-1">
                                         <div class="content">
                                             <h2 data-animation="animated slideInRight"><strong>Sistema Integrado de Gestión Comercial</strong></h2>
-                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="/">Descubre más</a>
                                         </div>
                                     </div>
                                 </div>
@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/indicadores.png);"></div>
                     <div class="box-table">
                         <div class="box-cell shadow dark">
                             <div class="container">
@@ -33,7 +33,7 @@
                                     <div class="col-lg-10 offset-lg-1">
                                         <div class="content">
                                             <h2 data-animation="animated slideInRight"><strong>Sistema de Indicadores para Seguridad y Salud en el Trabajo</strong></h2>
-                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="/">Descubre más</a>
                                         </div>
                                     </div>
                                 </div>
@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/turismo.png);"></div>
                     <div class="box-table">
                         <div class="box-cell shadow dark">
                             <div class="container">
@@ -50,7 +50,7 @@
                                     <div class="col-lg-10 offset-lg-1">
                                         <div class="content">
                                             <h2 data-animation="animated slideInRight"><strong>Sistema Integrado de Turismo Inteligente</strong></h2>
-                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="/">Descubre más</a>
                                         </div>
                                     </div>
                                 </div>
@@ -59,7 +59,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/seguros.png);"></div>
                     <div class="box-table">
                         <div class="box-cell shadow dark">
                             <div class="container">
@@ -67,7 +67,7 @@
                                     <div class="col-lg-10 offset-lg-1">
                                         <div class="content">
                                             <h2 data-animation="animated slideInRight"><strong>Cotizador de seguros online</strong></h2>
-                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="/">Descubre más</a>
                                         </div>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/gestiondocumental.png);"></div>
                     <div class="box-table">
                         <div class="box-cell shadow dark">
                             <div class="container">
@@ -84,7 +84,7 @@
                                     <div class="col-lg-10 offset-lg-1">
                                         <div class="content">
                                             <h2 data-animation="animated slideInRight"><strong>Gestión documental integrada a O365</strong></h2>
-                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="/">Descubre más</a>
                                         </div>
                                     </div>
                                 </div>
@@ -98,11 +98,11 @@
             <!-- Left and right controls -->
             <a class="left carousel-control light" href="#bootcarousel" data-slide="prev">
                 <i class="arrow_left"></i>
-                <span class="sr-only">Previous</span>
+                <span class="sr-only">Anterior</span>
             </a>
             <a class="right carousel-control light" href="#bootcarousel" data-slide="next">
                 <i class="arrow_right"></i>
-                <span class="sr-only">Next</span>
+                <span class="sr-only">Siguiente</span>
             </a>
 
         </div>
@@ -118,8 +118,7 @@
         <div class="item">
             <div class="container">
                 <div class="row align-center">
-
-                    <div class="col-lg-7 offset-lg-5">
+                    <div class="col-lg-9 offset-lg-5">
                         <div class="content">
                             <h2 class="wow fadeInDown"><strong>Impulsamos el crecimiento y el éxito de tu negocio.</strong></h2>
                             <p class="wow fadeInLeft">
@@ -177,7 +176,7 @@
                                     <span>Desarrollo</span>
                                     <h4><a href="#">Sistema Integrado de Gestión Comercial</a></h4>
                                     <p>
-                                        Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
+                                        Herramienta que optimiza el análisis de la información y agiliza la interacción entre cliente y vendedor, integrando funcionalidades que facilitan la comunicación entre las distintas áreas de la empresa para tomar decisiones acertadas basadas en análisis de  datos en tiempo real.
                                     </p>
                                 </div>
                             </div>
@@ -193,7 +192,7 @@
                                     <span>Desarrollo</span>
                                     <h4><a href="#">Sistema Integrado de Turismo Inteligente</a></h4>
                                     <p>
-                                        Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
+                                        Sistema integrado para dar información e integrar operadores, pobladores y usuarios turísticos.
                                     </p>
                                 </div>
                             </div>
@@ -209,7 +208,7 @@
                                     <span>Office 365 suite</span>
                                     <h4><a href="#">Gestión documental integrada a O365</a></h4>
                                     <p>
-                                        Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
+                                        Gestión documental integrada a O365 para centralizar, organizar y optimizar el manejo de documentos, mejorando la colaboración y el acceso a la información en toda la organización.
                                     </p>
                                 </div>
                             </div>
@@ -227,7 +226,7 @@
                                     <span>Office 365 suite</span>
                                     <h4><a href="#">Sistema de Indicadores para Seguridad y Salud en el Trabajo</a></h4>
                                     <p>
-                                        Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
+                                        Un sistema integral de control y para Seguridad y Salud en el Trabajo (SST) que facilita la gestión y el monitoreo de la seguridad laboral en tu organización.
                                     </p>
                                 </div>
                             </div>
@@ -243,7 +242,7 @@
                                     <span>Desarrollo</span>
                                     <h4><a href="#">Cotizador de seguros online</a></h4>
                                     <p>
-                                        Easy mind life fact with see has bore ten. Parish any chatty can elinor direct for former. Up as meant widow. Before nature his parish boy.
+                                        Sistema cotizador de seguros online que permite a los usuarios obtener un listado de ofertas según el tipo de cobertura requerida, agilizando los procesos y mejorando el seguimiento de las necesidades del cliente.
                                     </p>
                                 </div>
                             </div>
