@@ -15,7 +15,7 @@
                                 <div class="row">
                                     <div class="col-lg-10 offset-lg-1">
                                         <div class="content">
-                                            <h2 data-animation="animated slideInRight">Creating a better <strong>IT solutions</strong></h2>
+                                            <h2 data-animation="animated slideInRight"><strong>Sistema Integrado de Gestión Comercial</strong></h2>
                                             <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
                                         </div>
                                     </div>
@@ -32,7 +32,58 @@
                                 <div class="row">
                                     <div class="col-lg-10 offset-lg-1">
                                         <div class="content">
-                                            <h2 data-animation="animated slideInRight">Transform every<strong>Digital Process</strong></h2>
+                                            <h2 data-animation="animated slideInRight"><strong>Sistema de Indicadores para Seguridad y Salud en el Trabajo</strong></h2>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="box-table">
+                        <div class="box-cell shadow dark">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-10 offset-lg-1">
+                                        <div class="content">
+                                            <h2 data-animation="animated slideInRight"><strong>Sistema Integrado de Turismo Inteligente</strong></h2>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="box-table">
+                        <div class="box-cell shadow dark">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-10 offset-lg-1">
+                                        <div class="content">
+                                            <h2 data-animation="animated slideInRight"><strong>Cotizador de seguros online</strong></h2>
+                                            <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="box-table">
+                        <div class="box-cell shadow dark">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-10 offset-lg-1">
+                                        <div class="content">
+                                            <h2 data-animation="animated slideInRight"><strong>Gestión documental integrada a O365</strong></h2>
                                             <a data-animation="animated fadeInUp" class="btn btn-light effect btn-md" href="#">Find out More</a>
                                         </div>
                                     </div>
