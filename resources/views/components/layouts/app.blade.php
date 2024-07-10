@@ -156,8 +156,8 @@
                             <ul class="dropdown-menu">
                                 <li><a href="{{ route('microsfotE') }}">Microsoft education</a></li>
                                 <li><a href="{{ route('lms') }}">LMS</a></li>
-                                <li><a href="{{ route('/') }}">Eproctoring</a></li>
-                                <li><a href="{{ route('/') }}">Optimizador de admisiones</a></li>
+                                <li><a href="">Eproctoring</a></li>
+                                <li><a href="">Optimizador de admisiones</a></li>
                                 <li><a href="">IA para retención de estudiantes</a></li>
                                 <li><a href="">Contenidos a la medida</a></li>
                                 <li><a href="">Formación por cualificaciones</a></li>
