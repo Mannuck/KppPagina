@@ -144,7 +144,6 @@
                                 <li><a href="">Inteligencia artificial</a></li>
                                 <li><a href="{{ route('PyC') }}">Portales y colaboración</a></li>
                                 <li><a href="">Tableros de indicadores</a></li>
-                                <li><a href="">Desarrollo web y móviles</a></li>
                                 <li><a href="">Aprovechamiento de la plataforma O365</a></li>
                                 <li><a href="">Capacitación en tecnologías disruptivas</a></li>
                                 <li><a href="">Soporte técnico en TI para empresas</a></li>
@@ -155,10 +154,10 @@
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Smart education</a>
                             <ul class="dropdown-menu">
-                                <li><a href="">Microsoft education</a></li>
-                                <li><a href="">LMS</a></li>
-                                <li><a href="">Eproctoring</a></li>
-                                <li><a href="">Optimizador de admisiones</a></li>
+                                <li><a href="{{ route('microsfotE') }}">Microsoft education</a></li>
+                                <li><a href="{{ route('lms') }}">LMS</a></li>
+                                <li><a href="{{ route('/') }}">Eproctoring</a></li>
+                                <li><a href="{{ route('/') }}">Optimizador de admisiones</a></li>
                                 <li><a href="">IA para retención de estudiantes</a></li>
                                 <li><a href="">Contenidos a la medida</a></li>
                                 <li><a href="">Formación por cualificaciones</a></li>
