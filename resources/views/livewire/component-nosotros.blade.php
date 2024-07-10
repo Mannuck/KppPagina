@@ -90,6 +90,7 @@
         </div>
     </div>
     <!-- End About Area -->
+
     <!-- Star About Area
     ============================================= -->
     <div id="about" class="about-area overflow-hidden version-three default-padding-top">
